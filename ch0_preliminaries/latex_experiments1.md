@@ -8,8 +8,8 @@ $a+$b
 
 ### Code Block
 
-$$
-a+b
+$$ <br />
+a+b <br />
 $$
 
 ### Here is a table showing the four basic operators in  inline and code block
