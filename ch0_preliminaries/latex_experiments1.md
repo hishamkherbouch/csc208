@@ -1,8 +1,19 @@
-$1+$2
+# Math notation in markdown
+
+## You can write math in two different forms: Inline or Code Block
+
+### Inline
+
+$a+$b
+
+### Code Block
 
 $$
-1+2
+a+b
 $$
+
+### Here is a table showing the four basic operators in  inline and code block
+
 | Notation | Example | Inline | Code Block |
 | -------- | ------- | ------ | ---------- |
 | Addition | $a+b$ | ``` $a+b$ ``` | ``` $$ ```<br />``` a+b ```<br />```$$```|
