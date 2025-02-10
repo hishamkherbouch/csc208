@@ -1,4 +1,4 @@
-#Chapter 0 Notes
+# Chapter 0 Notes
 
 Discrete math is a different type of math. It's not like algebra or geometry
 it's more logic based. Problems are more complex than arithmetic like 1+1 its
