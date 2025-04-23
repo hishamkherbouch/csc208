@@ -25,3 +25,5 @@ The reasoning for this is that we want to include all the numbers in the set of 
 
 |A∪B∪C| = 94+169+424-18-47-84+9 = 547
 
+This shows that the final answer is 547 because of the Principle of Inclusion/Exclusion
+
