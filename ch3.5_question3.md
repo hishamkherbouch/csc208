@@ -1,4 +1,4 @@
-#3.5 Question 6
+3.5 Question 6
 
 After gym class you are tasked with putting the 21 identical dodgeballs away into 10 bins.
 a. How many ways can you do this if there are no restrictions?
