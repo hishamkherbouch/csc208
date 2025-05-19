@@ -3,7 +3,7 @@
 **Problem:**  
 Your summer job pays you $1000 per week, with a raise of $50 per week as a bonus for not being a quitter. How much will you make in the 10th week?
 
-This is an **arithmetic sequence** because you are receiving a constant raise ($50 per week). So we can represent the amount earned in the $n$th week with the formula:
+This is an **arithmetic sequence** because you are receiving a constant raise ($50 per week). So we can represent the amount earned in the nth week with the formula:
 
 $$
 a_n = a_1 + (n - 1) \cdot 50
@@ -26,5 +26,5 @@ $$
 a_{10} = 1000 + (10 - 1) \cdot 50 = 1000 + 450 = 1450
 $$
 
-### ✅ Final Answer:
+### Final Answer:
 You will make **$1450** in the **10th week**.
