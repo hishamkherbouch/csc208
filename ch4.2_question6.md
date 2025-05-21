@@ -10,7 +10,7 @@ a_n = a_1 + (n - 1) \cdot 50
 $$
 
 Where:  
-- $a_n$ is the amount made in the $n$th week  
+- $a_n$ is the amount made in the $n^{th}$ week  
 - $a_1 = 1000$ (first week’s pay)  
 - $d = 50$ (weekly raise)
 
